@@ -1,0 +1,4 @@
+.track-container {
+  display: flex;
+  flex-direction: row;
+}
